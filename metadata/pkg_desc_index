@@ -1,0 +1,8 @@
+app-admin/gcruft 0.1.1: helps finding orphaned files on a gentoo system
+app-emulation/emul-linux-x86-wxGTK 1.0: Provides precompiled 32bit libraries
+games-arcade/OpenJazz 0.1.0: Free engine for Jazz Jackrabbit game
+games-arcade/knights 022 023 025: multiplayer game involving several knights who must run around a dungeon and complete various quests
+games-roguelike/nethack 3.4.3-r2: The ultimate old-school single player dungeon exploration game
+games-roguelike/stone-soup 9999: a rogue-like game
+games-strategy/heroes3 1.3.1a-r3: Heroes of Might and Magic III : The Restoration of Erathia - turn-based 2-D medieval combat
+media-libs/libsdl 1.2.15-r2: Simple Direct Media Layer
