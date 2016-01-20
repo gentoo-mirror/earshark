@@ -11,5 +11,5 @@ RESTRICT=strip
 SLOT=0
 SRC_URI=http://github.com/downloads/wishstudio/flora/emul-linux-x86-wxGTK-1.0.tar.xz
 _eclass_exported_funcs=src_prepare:- src_install:emul-linux-x86
-_eclasses_=emul-linux-x86	783ad73c26dde66232af0f4d2452acf1	eutils	d9bd2ddd85a58e470b49ca997e255a4c	multilib	3972ca401cf7dbb430df9995f5d8d580	toolchain-funcs	7a212e5e01adfa4805c9978366e6ee85
+_eclasses_=emul-linux-x86	783ad73c26dde66232af0f4d2452acf1	eutils	7332d4dd366dcd51c0014dde21f21897	multilib	3972ca401cf7dbb430df9995f5d8d580	toolchain-funcs	7a212e5e01adfa4805c9978366e6ee85
 _md5_=e66d8d3e3ee0d33b2e40cb50392a7f77
