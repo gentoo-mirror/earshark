@@ -7,3 +7,4 @@ games-roguelike/nethack 3.4.3-r2: The ultimate old-school single player dungeon 
 games-roguelike/stone-soup 9999: a rogue-like game
 games-strategy/heroes3 1.3.1a-r3: Heroes of Might and Magic III : The Restoration of Erathia - turn-based 2-D medieval combat
 media-libs/libsdl 1.2.15-r2: Simple Direct Media Layer
+media-video/obs-studio 0.13.1_rc1 9999: Software for recording and streaming live video content
