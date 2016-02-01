@@ -1,4 +1,5 @@
 app-admin/gcruft 0.1.1: helps finding orphaned files on a gentoo system
+app-admin/keepassx 2.0.1: Qt password manager compatible with its Win32 and Pocket PC versions
 app-emulation/emul-linux-x86-wxGTK 1.0: Provides precompiled 32bit libraries
 games-arcade/OpenJazz 0.1.0: Free engine for Jazz Jackrabbit game
 games-arcade/knights 022 023 025: multiplayer game involving several knights who must run around a dungeon and complete various quests
