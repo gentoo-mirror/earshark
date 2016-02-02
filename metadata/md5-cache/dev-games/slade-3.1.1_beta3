@@ -1,0 +1,12 @@
+DEFINED_PHASES=compile configure
+DEPEND=x11-libs/wxGTK:3.0[gstreamer] media-libs/libsfml x11-libs/fltk media-sound/fluidsynth media-libs/freeimage
+DESCRIPTION=SLADE3 is a modern editor for Doom-engine based games and source ports
+EAPI=5
+HOMEPAGE=http://slade.mancubus.net/
+KEYWORDS=~x86 ~amd64
+LICENSE=GPL-2
+RDEPEND=x11-libs/wxGTK:3.0[gstreamer] media-libs/libsfml x11-libs/fltk media-sound/fluidsynth media-libs/freeimage
+SLOT=0
+SRC_URI=https://github.com/sirjuddington/slade/archive/3.1.1_b3.tar.gz -> slade-3.1.1_beta3.tar.gz
+_eclass_exported_funcs=src_configure:- src_compile:-
+_md5_=13af2e90c575e9780222dee13a2d4c5d
