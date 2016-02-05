@@ -1,6 +1,8 @@
 app-admin/gcruft 0.1.1: helps finding orphaned files on a gentoo system
 app-admin/keepassx 2.0.1: Qt password manager compatible with its Win32 and Pocket PC versions
+dev-cpp/curlcpp 9999: An object-oriented C++ wrapper for cURL tool
 dev-games/slade 3.1.1_beta3: SLADE3 is a modern editor for Doom-engine based games and source ports
+dev-games/zdbsp 1.19: Standalone version of ZDoom's internal node builder
 games-arcade/OpenJazz 0.1.0: Free engine for Jazz Jackrabbit game
 games-arcade/knights 022 023 025: multiplayer game involving several knights who must run around a dungeon and complete various quests
 games-roguelike/nethack 3.4.3-r2: The ultimate old-school single player dungeon exploration game
