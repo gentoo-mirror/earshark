@@ -10,3 +10,4 @@ games-strategy/heroes3 1.3.1a-r3: Heroes of Might and Magic III : The Restoratio
 games-util/doomseeker 1.0: Internet Doom server browser
 media-libs/libsdl 1.2.15-r2: Simple Direct Media Layer
 media-video/obs-studio 0.13.1_rc1 9999: Software for recording and streaming live video content
+x11-misc/redshift-qt 0.1: Tray controls for redshift
