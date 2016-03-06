@@ -3,10 +3,9 @@ dev-cpp/curlcpp 9999: An object-oriented C++ wrapper for cURL tool
 dev-games/slade 3.1.1_beta3: SLADE3 is a modern editor for Doom-engine based games and source ports
 dev-games/zdbsp 1.19: Standalone version of ZDoom's internal node builder
 games-arcade/OpenJazz 0.1.0: Free engine for Jazz Jackrabbit game
-games-arcade/knights 022 023 025: multiplayer game involving several knights who must run around a dungeon and complete various quests
-games-roguelike/nethack 3.4.3-r2: The ultimate old-school single player dungeon exploration game
+games-arcade/knights 025: multiplayer game, port of Amiga Knights
 games-roguelike/stone-soup 9999: a rogue-like game
-games-strategy/heroes3 1.3.1a-r3: Heroes of Might and Magic III : The Restoration of Erathia - turn-based 2-D medieval combat
+games-strategy/heroes3 1.3.1a-r3: Linux port of Heroes of Might and Magic 3
 games-util/doomseeker 1.0: Internet Doom server browser
 media-libs/libsdl 1.2.15-r2: Simple Direct Media Layer
 media-video/obs-studio 0.13.1_rc1 9999: Software for recording and streaming live video content

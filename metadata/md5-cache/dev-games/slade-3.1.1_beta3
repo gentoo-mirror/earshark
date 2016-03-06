@@ -9,4 +9,4 @@ RDEPEND=x11-libs/wxGTK:3.0[gstreamer] media-libs/libsfml x11-libs/fltk media-sou
 SLOT=0
 SRC_URI=https://github.com/sirjuddington/slade/archive/3.1.1_b3.tar.gz -> slade-3.1.1_beta3.tar.gz
 _eclass_exported_funcs=src_configure:- src_compile:-
-_md5_=13af2e90c575e9780222dee13a2d4c5d
+_md5_=bd38d5a1d3f2d8d1ebdc0b2ca190220e
