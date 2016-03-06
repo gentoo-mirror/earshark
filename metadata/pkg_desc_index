@@ -1,4 +1,4 @@
-app-admin/gcruft 0.1.1: helps finding orphaned files on a gentoo system
+app-portage/gcruft 0.1.1-r1: helps finding orphaned files on a gentoo system
 dev-cpp/curlcpp 9999: An object-oriented C++ wrapper for cURL tool
 dev-games/slade 3.1.1_beta3: SLADE3 is a modern editor for Doom-engine based games and source ports
 dev-games/zdbsp 1.19: Standalone version of ZDoom's internal node builder
@@ -7,6 +7,6 @@ games-arcade/knights 025: multiplayer game, port of Amiga Knights
 games-roguelike/stone-soup 9999: a rogue-like game
 games-strategy/heroes3 1.3.1a-r3: Linux port of Heroes of Might and Magic 3
 games-util/doomseeker 1.0: Internet Doom server browser
-media-libs/libsdl 1.2.15-r2: Simple Direct Media Layer
+media-libs/libsdl 1.2.15-r9: Simple Direct Media Layer
 media-video/obs-studio 0.13.1_rc1 9999: Software for recording and streaming live video content
 x11-misc/redshift-qt 0.2 9999: Tray controls for redshift

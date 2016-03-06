@@ -1,12 +1,13 @@
 DEFINED_PHASES=compile configure
-DEPEND=x11-libs/wxGTK:3.0[gstreamer] media-libs/libsfml x11-libs/fltk media-sound/fluidsynth media-libs/freeimage
+DEPEND=x11-libs/wxGTK:3.0[gstreamer] media-libs/libsfml x11-libs/fltk media-libs/ftgl media-sound/fluidsynth media-libs/freeimage
 DESCRIPTION=SLADE3 is a modern editor for Doom-engine based games and source ports
 EAPI=5
 HOMEPAGE=http://slade.mancubus.net/
 KEYWORDS=~x86 ~amd64
 LICENSE=GPL-2
-RDEPEND=x11-libs/wxGTK:3.0[gstreamer] media-libs/libsfml x11-libs/fltk media-sound/fluidsynth media-libs/freeimage
+RDEPEND=x11-libs/wxGTK:3.0[gstreamer] media-libs/libsfml x11-libs/fltk media-libs/ftgl media-sound/fluidsynth media-libs/freeimage
 SLOT=0
 SRC_URI=https://github.com/sirjuddington/slade/archive/3.1.1_b3.tar.gz -> slade-3.1.1_beta3.tar.gz
 _eclass_exported_funcs=src_configure:- src_compile:-
-_md5_=bd38d5a1d3f2d8d1ebdc0b2ca190220e
+_eclasses_=eutils	9d81603248f2ba3ec59124320d123e5e	flag-o-matic	d270fa247153df66074f795fa42dba3e	multilib	3972ca401cf7dbb430df9995f5d8d580	toolchain-funcs	7a212e5e01adfa4805c9978366e6ee85	wxwidgets	cf6a488b00cd81e258206bc14b4167d9
+_md5_=9a60f095cfc8c7916d907c19cecffbf5
