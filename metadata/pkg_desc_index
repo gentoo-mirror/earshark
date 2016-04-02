@@ -7,5 +7,5 @@ games-arcade/knights 025: multiplayer game, port of Amiga Knights
 games-roguelike/stone-soup 9999: a rogue-like game
 games-util/doomseeker 1.0: Internet Doom server browser
 media-libs/libsdl 1.2.15-r9: Simple Direct Media Layer
-media-video/obs-studio 0.13.1_rc1 9999: Software for recording and streaming live video content
+media-video/obs-studio 9999: Software for recording and streaming live video content
 x11-misc/redshift-qt 0.2 9999: Tray controls for redshift
