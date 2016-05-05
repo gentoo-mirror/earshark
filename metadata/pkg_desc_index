@@ -4,6 +4,7 @@ dev-games/slade 3.1.1_beta3: SLADE3 is a modern editor for Doom-engine based gam
 dev-games/zdbsp 1.19: Standalone version of ZDoom's internal node builder
 games-arcade/OpenJazz 0.1.0: Free engine for Jazz Jackrabbit game
 games-arcade/knights 025: multiplayer game, port of Amiga Knights
+games-fps/zandronum 2.1.2-r2: OpenGL ZDoom port with Client/Server multiplayer
 games-roguelike/stone-soup 9999: a rogue-like game
 games-util/doomseeker 1.0: Internet Doom server browser
 media-libs/libsdl 1.2.15-r9: Simple Direct Media Layer
