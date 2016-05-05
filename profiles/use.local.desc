@@ -4,6 +4,8 @@
 
 games-arcade/knights:game - Install game client
 games-arcade/knights:server - Install game server
+games-fps/zandronum:dedicated - Build zandronum-server
+games-fps/zandronum:gtk - Build WAD selector
 games-roguelike/stone-soup:luajit - Use dev-lang/luajit as scripting backend instead of dev-lang/lua.
 games-roguelike/stone-soup:tiles - Install graphical version of the game
 games-util/doomseeker:fake-plugins - Build plugins that are used for development purposes only
