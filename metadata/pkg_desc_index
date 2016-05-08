@@ -1,5 +1,6 @@
 app-portage/gcruft 0.1.1-r1: helps finding orphaned files on a gentoo system
 dev-cpp/curlcpp 9999: An object-oriented C++ wrapper for cURL tool
+dev-games/acc 9999: Zandronum Action Code script Compiler
 dev-games/slade 3.1.1_beta3: SLADE3 is a modern editor for Doom-engine based games and source ports
 dev-games/zdbsp 1.19: Standalone version of ZDoom's internal node builder
 games-arcade/OpenJazz 0.1.0-r1: Free engine for Jazz Jackrabbit game
