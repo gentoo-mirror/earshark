@@ -3,6 +3,7 @@ dev-cpp/curlcpp 9999: An object-oriented C++ wrapper for cURL tool
 dev-games/acc 9999: Zandronum Action Code script Compiler
 dev-games/slade 3.1.1_beta3: SLADE3 is a modern editor for Doom-engine based games and source ports
 dev-games/zdbsp 1.19: Standalone version of ZDoom's internal node builder
+dev-libs/crypto++ 5.6.2-r4: C++ class library of cryptographic schemes
 games-arcade/OpenJazz 0.1.0-r1: Free engine for Jazz Jackrabbit game
 games-arcade/knights 025-r1: multiplayer game, port of Amiga Knights
 games-fps/zandronum 2.1.2-r2: OpenGL ZDoom port with Client/Server multiplayer
