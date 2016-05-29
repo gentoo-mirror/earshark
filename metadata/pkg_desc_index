@@ -9,7 +9,7 @@ games-arcade/knights 025-r1: multiplayer game, port of Amiga Knights
 games-fps/zandronum 2.1.2-r2: OpenGL ZDoom port with Client/Server multiplayer
 games-roguelike/stone-soup 9999-r1: a rogue-like game
 games-util/doomseeker 1.0-r1: Internet Doom server browser
-kde-misc/wacomtablet 2.0.2: KControl module for Wacom tablets
+kde-misc/wacomtablet 2.0.2 2.1.0-r1: KControl module for Wacom tablets
 media-libs/libsdl 1.2.15-r9: Simple Direct Media Layer
 media-video/obs-studio 9999: Software for recording and streaming live video content
 sys-block/partitionmanager 1.1.1: KDE utility for management of partitions and file systems
