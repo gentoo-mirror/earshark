@@ -2,6 +2,7 @@
 # Please add your descriptions to your package's metadata.xml ONLY.
 # * generated automatically using pmaint *
 
+dev-cpp/cpr:insecure - Do not verfiy SSL certificates
 games-arcade/knights:game - Install game client
 games-arcade/knights:server - Install game server
 games-roguelike/stone-soup:luajit - Use dev-lang/luajit as scripting backend instead of dev-lang/lua.
