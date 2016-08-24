@@ -1,0 +1,11 @@
+DEFINED_PHASES=install unpack
+DEPEND=dev-vcs/git
+DESCRIPTION=cpptoml is a header-only library for parsing TOML
+EAPI=5
+HOMEPAGE=https://github.com/skystrife/cpptoml
+KEYWORDS=~amd64 ~x86
+LICENSE=cpptoml
+SLOT=0
+_eclass_exported_funcs=src_unpack:git-2 src_install:-
+_eclasses_=git-2	7af5d170bfc02983b4bcd3167dc5edd4
+_md5_=bbe3bd32ffe59fc7c6ef4e630d8e1eee
