@@ -17,3 +17,4 @@ media-libs/libsdl 1.2.15-r9: Simple Direct Media Layer
 media-video/obs-studio 9999: Software for recording and streaming live video content
 sys-block/partitionmanager 1.1.1: KDE utility for management of partitions and file systems
 x11-misc/redshift-qt 0.2 9999: Tray controls for redshift
+x11-themes/kfaenza 0.8.9-r2: Faenza-Cupertino icon theme for KDE
