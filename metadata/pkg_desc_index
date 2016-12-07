@@ -1,3 +1,4 @@
+app-admin/keepassxc 9999: KeePassXC - KeePass Cross-platform Community Edition
 app-portage/gcruft 0.1.1-r1: helps finding orphaned files on a gentoo system
 dev-cpp/cld2 9999: CLD2 probabilistically detects over 80 languages in Unicode text
 dev-cpp/cpptoml 9999: cpptoml is a header-only library for parsing TOML
