@@ -10,5 +10,5 @@ RDEPEND=dev-libs/boost media-libs/libsdl game? ( media-libs/fontconfig media-lib
 SLOT=0
 SRC_URI=http://www.knightsgame.org.uk/files/knights_025_src.tar.gz
 _eclass_exported_funcs=src_compile:- src_install:-
-_eclasses_=eutils	ea170b525f6a38a006be05c9d9429f13	multilib	165fc17c38d1b11dac2008280dab6e80	toolchain-funcs	1b1da0c45c555989dc5d832b54880783
+_eclasses_=eutils	708f85bc1bf00876604e223fb56e062a	multilib	165fc17c38d1b11dac2008280dab6e80	toolchain-funcs	1b1da0c45c555989dc5d832b54880783
 _md5_=b31ede749b517915b782342b85bc0a1f
