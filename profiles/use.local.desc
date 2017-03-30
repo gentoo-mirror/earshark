@@ -14,4 +14,6 @@ media-libs/libsdl:sound - Control audio support (disable at your own risk)
 media-libs/libsdl:tslib - Build with tslib support for touchscreen devices
 media-libs/libsdl:video - Control video support (disable at your own risk)
 media-video/obs-studio:fdk - Build with support for FDK AAC
+net-misc/drawpile:client - Build Drawpile client
+net-misc/drawpile:server - Build Drawpile server
 x11-themes/kfaenza:additional - Install additional KFaenza icons. See third homepage for details
