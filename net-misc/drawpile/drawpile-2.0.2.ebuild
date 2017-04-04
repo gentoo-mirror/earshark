@@ -5,12 +5,9 @@ EAPI=6
 
 inherit cmake-utils
 
-MY_PV="2.0.0rc"
-S="${WORKDIR}/${PN}-${MY_PV}"
-
 DESCRIPTION="Networking drawing (whiteboarding) program"
 HOMEPAGE="http://drawpile.net/"
-SRC_URI="http://drawpile.net/files/src/${PN}-${MY_PV}.tar.gz -> ${P}.tar.gz"
+SRC_URI="http://drawpile.net/files/src/${P}.tar.gz"
 RESTRICT="mirror"
 
 LICENSE="GPL-3"
