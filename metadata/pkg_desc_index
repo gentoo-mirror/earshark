@@ -11,6 +11,7 @@ games-roguelike/stone-soup 9999-r1: a rogue-like game
 games-util/doomseeker 1.0-r1: Internet Doom server browser
 kde-misc/wacomtablet 3.0.0_beta1-r1 3.9999: KControl module for Wacom tablets
 media-libs/libsdl 1.2.15-r10: Simple Direct Media Layer
+media-sound/teamspeak-client-bin 3.1.4: TeamSpeak Client - Voice Communication Software
 media-video/obs-studio 9999: Software for recording and streaming live video content
 net-misc/drawpile 2.0.0_rc 2.0.2: Networking drawing (whiteboarding) program
 x11-misc/redshift-qt 0.3 9999: Tray controls for redshift
