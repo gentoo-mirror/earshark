@@ -15,6 +15,7 @@ kde-misc/wacomtablet 3.0.0_beta1-r1 3.9999: KControl module for Wacom tablets
 media-libs/libsdl 1.2.15-r10: Simple Direct Media Layer
 media-sound/teamspeak-client-bin 3.1.4: TeamSpeak Client - Voice Communication Software
 media-video/obs-studio 9999: Software for recording and streaming live video content
+net-misc/discord-prompt-bot 9999: Simple discord prompt bot
 net-misc/drawpile 2.0.0_rc 2.0.2: Networking drawing (whiteboarding) program
 net-misc/lemongrab 9999: Simple XMPP bot
 x11-misc/redshift-qt 0.3 9999: Tray controls for redshift
