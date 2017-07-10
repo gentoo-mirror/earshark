@@ -21,5 +21,5 @@ net-misc/drawpile 2.0.0_rc 2.0.2: Networking drawing (whiteboarding) program
 net-misc/lemongrab 9999: Simple XMPP bot
 net-misc/matterbridge 9999: Bridge between multiple chat networks
 x11-misc/redshift-qt 0.3 9999: Tray controls for redshift
-x11-themes/kfaenza 0.8.9-r2: Faenza-Cupertino icon theme for KDE
+x11-themes/kfaenza 0.8.9-r3: Faenza-Cupertino icon theme for KDE
 x11-themes/qtcurve 9999-r1: Widget styles for Qt and GTK2
