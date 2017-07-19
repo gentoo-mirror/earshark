@@ -1,0 +1,10 @@
+DEFINED_PHASES=install unpack
+DEPEND=>=dev-vcs/git-1.8.2.1
+DESCRIPTION=SQLite ORM light header only library for modern C++
+EAPI=6
+HOMEPAGE=https://github.com/fnc12/sqlite_orm
+LICENSE=BSD
+SLOT=0
+_eclass_exported_funcs=src_unpack:git-r3 src_install:-
+_eclasses_=git-r3	cbafa3261c37c7e3af44bb16a34ea390
+_md5_=d5d878dd7fd34d9a9959788fecf66288
