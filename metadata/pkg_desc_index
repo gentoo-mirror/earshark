@@ -8,7 +8,9 @@ dev-db/sqliteman-qt5 9999: Powerful GUI manager for the Sqlite3 database (rough 
 dev-games/acc 9999: Zandronum Action Code script Compiler
 dev-games/slade 3.1.1_beta3: SLADE3 is a modern editor for Doom-engine based games and source ports
 dev-games/zdbsp 1.19: Standalone version of ZDoom's internal node builder
+dev-go/cascadia 9999: CSS selector library in Go
 dev-go/discordgo 9999: Discord Go library
+dev-go/goquery 9999: A little like that j-thing, only in Go
 dev-go/gorilla-websocket 9999: A WebSocket implementation for Go
 games-arcade/OpenJazz 0.1.0-r1: Free engine for Jazz Jackrabbit game
 games-arcade/knights 025-r1: multiplayer game, port of Amiga Knights
