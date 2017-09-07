@@ -5,6 +5,5 @@ EAPI=6
 HOMEPAGE=https://github.com/fnc12/sqlite_orm
 LICENSE=BSD
 SLOT=0
-_eclass_exported_funcs=src_unpack:git-r3 src_install:-
 _eclasses_=git-r3	4f7ddb4119309845d6687213171ab445
 _md5_=9d348a040d18bb1af7a2a9b9c80f7e0c
