@@ -5,5 +5,5 @@ EAPI=6
 HOMEPAGE=https://bitbucket.org/Torr_Samaho/acc/
 LICENSE=ACC
 SLOT=0
-_eclasses_=git-r3	4f7ddb4119309845d6687213171ab445
+_eclasses_=git-r3	52a888802d25387c2c74cb845d1219bc
 _md5_=1031d9d1d8d62ea4957c9b0fc4f74e3b
