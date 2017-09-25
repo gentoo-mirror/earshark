@@ -34,7 +34,6 @@ COMMON_DEPEND="
 	>=dev-libs/glib-2.24.1-r1
 	dev-libs/libxml2
 	dev-libs/protobuf:=
-	dev-libs/qjson
 	dev-qt/qtcore:5
 	dev-qt/qtgui:5
 	dev-qt/qtopengl:5
@@ -77,7 +76,7 @@ DEPEND="${COMMON_DEPEND}
 	>=dev-libs/boost-1.39:=
 	virtual/pkgconfig
 	sys-devel/gettext
-	dev-qt/qttest:4
+	dev-qt/qttest:5
 	dev-cpp/gmock
 	box? ( dev-cpp/sparsehash )
 	dropbox? ( dev-cpp/sparsehash )
