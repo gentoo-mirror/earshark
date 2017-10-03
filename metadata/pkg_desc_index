@@ -1,4 +1,5 @@
 app-doc/cheat 9999: cheat allows you to create and view interactive cheatsheets on the command-line
+dev-cpp/callff 9999: CallFF library allows to making foreign functions calls.
 dev-cpp/cpptoml 9999: cpptoml is a header-only library for parsing TOML
 dev-cpp/cpr 1.2.0 1.3.0 9999: Simple wrapper around libcurl inspired by the Python Requests project
 dev-cpp/curlcpp 9999: An object-oriented C++ wrapper for cURL tool
@@ -7,6 +8,7 @@ dev-cpp/hiberlite 9999: C++ ORM for SQLite
 dev-cpp/sqlite-orm 9999: SQLite ORM light header only library for modern C++
 dev-db/sqliteman-qt5 9999: Powerful GUI manager for the Sqlite3 database (rough qt5 port)
 dev-games/acc 9999: Zandronum Action Code script Compiler
+dev-games/raknet-tes3mp 9999: Multiplayer game network engine, TES3MP fork
 dev-games/sdlu 9999: The SDL Utility Library
 dev-games/slade 3.1.1_beta3: SLADE3 is a modern editor for Doom-engine based games and source ports
 dev-games/zdbsp 1.19: Standalone version of ZDoom's internal node builder
