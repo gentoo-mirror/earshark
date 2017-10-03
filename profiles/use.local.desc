@@ -38,4 +38,3 @@ media-sound/teamspeak-client-bin:system-openssl - Use system OpenSSL
 media-video/obs-studio:fdk - Build with support for FDK AAC
 net-misc/drawpile:client - Build Drawpile client
 net-misc/drawpile:server - Build Drawpile server
-x11-themes/kfaenza:additional - Install additional KFaenza icons. See third homepage for details
