@@ -30,6 +30,7 @@ media-sound/sfxr 1.2.1: Sound effect generator with SDL GUI
 media-sound/teamspeak-client-bin 3.1.4: TeamSpeak Client - Voice Communication Software
 media-video/obs-studio 9999: Software for recording and streaming live video content
 net-im/discord-bin 0.0.2: All-in-one voice and text chat for gamers
+net-irc/znc-push 9999: Push notification service module for ZNC
 net-misc/discord-prompt-bot 9999: Simple discord prompt bot
 net-misc/drawpile 2.0.0_rc 2.0.2: Networking drawing (whiteboarding) program
 net-misc/lemongrab 9999: Simple XMPP bot

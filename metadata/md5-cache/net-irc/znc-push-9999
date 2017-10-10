@@ -1,0 +1,10 @@
+DEFINED_PHASES=install unpack
+DEPEND=>=dev-vcs/git-1.8.2.1
+DESCRIPTION=Push notification service module for ZNC
+EAPI=6
+HOMEPAGE=https://noswap.com/projects/znc-push
+KEYWORDS=~amd64 ~x86
+LICENSE=MIT
+SLOT=0
+_eclasses_=git-r3	52a888802d25387c2c74cb845d1219bc
+_md5_=9751febee28565d7350b56d23e1e0f75
