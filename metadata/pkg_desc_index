@@ -23,6 +23,7 @@ games-engines/openmw 0.42.0: Open source reimplementation of TES III: Morrowind
 games-fps/eduke32 20170806.6428: Port of Duke Nukem 3D for SDL
 games-roguelike/stone-soup 9999-r1: a rogue-like game
 games-util/doomseeker 1.0-r1: Internet Doom server browser
+kde-apps/kaccounts-providers 17.04.3-r1: KDE accounts providers
 kde-misc/wacomtablet 3.0.0_beta1-r1 9999: KControl module for Wacom tablets
 media-libs/libsdl 1.2.15-r10: Simple Direct Media Layer
 media-sound/clementine-qt5 9999: A modern music player and library organizer based on Amarok 1.4 and Qt4
