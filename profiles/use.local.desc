@@ -5,7 +5,6 @@
 dev-cpp/cpr:insecure - Do not verfiy SSL certificates
 games-arcade/knights:game - Install game client
 games-arcade/knights:server - Install game server
-games-engines/openmw:devtools - Install development tools like bsatool, esmtool and opencs.
 games-fps/eduke32:demo - Install games-fps/duke3d-demodata as well
 games-fps/eduke32:gtk - Compile with gtk launcher
 games-fps/eduke32:offensive - Include optional XXX texture pack (needs USE 'textures')
