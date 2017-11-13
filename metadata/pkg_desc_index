@@ -4,6 +4,7 @@ dev-cpp/cpptoml 9999: cpptoml is a header-only library for parsing TOML
 dev-cpp/cpr 1.2.0 1.3.0 9999: Simple wrapper around libcurl inspired by the Python Requests project
 dev-cpp/curlcpp 9999: An object-oriented C++ wrapper for cURL tool
 dev-cpp/fplus 9999: Functional Programming Library for C++
+dev-cpp/hexicord 9999: Discord API library for C++ using boost libraries
 dev-cpp/hiberlite 9999: C++ ORM for SQLite
 dev-cpp/sqlite-orm 9999: SQLite ORM light header only library for modern C++
 dev-db/sqliteman-qt5 9999: Powerful GUI manager for the Sqlite3 database (rough qt5 port)
@@ -16,6 +17,7 @@ dev-go/cascadia 9999: CSS selector library in Go
 dev-go/discordgo 9999: Discord Go library
 dev-go/goquery 9999: A little like that j-thing, only in Go
 dev-go/gorilla-websocket 9999: A WebSocket implementation for Go
+dev-libs/beast 124: Simple wrapper around libcurl inspired by the Python Requests project
 games-arcade/OpenJazz 0.1.0-r1: Free engine for Jazz Jackrabbit game
 games-arcade/knights 025-r1: multiplayer game, port of Amiga Knights
 games-engines/love 0.10.2: A framework for 2D games in Lua
