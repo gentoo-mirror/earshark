@@ -7,7 +7,6 @@ dev-cpp/fplus 9999: Functional Programming Library for C++
 dev-cpp/hexicord 9999: Discord API library for C++ using boost libraries
 dev-cpp/hiberlite 9999: C++ ORM for SQLite
 dev-cpp/sqlite-orm 9999: SQLite ORM light header only library for modern C++
-dev-db/sqliteman-qt5 9999: Powerful GUI manager for the Sqlite3 database (rough qt5 port)
 dev-games/acc 9999: Zandronum Action Code script Compiler
 dev-games/raknet-tes3mp 9999: Multiplayer game network engine, TES3MP fork
 dev-games/sdlu 9999: The SDL Utility Library
