@@ -29,7 +29,6 @@ kde-misc/wacomtablet 3.0.0_beta1-r1 9999: KControl module for Wacom tablets
 media-libs/libsdl 1.2.15-r10: Simple Direct Media Layer
 media-sound/clementine-qt5 9999: A modern music player and library organizer based on Amarok 1.4 and Qt4
 media-sound/sfxr 1.2.1: Sound effect generator with SDL GUI
-media-sound/teamspeak-client-bin 3.1.4: TeamSpeak Client - Voice Communication Software
 media-video/obs-studio 9999: Software for recording and streaming live video content
 net-im/discord-bin 0.0.2: All-in-one voice and text chat for gamers
 net-irc/communi-desktop 9999: An IRC client for desktop environments
