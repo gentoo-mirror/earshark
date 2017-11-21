@@ -1,0 +1,10 @@
+DEFINED_PHASES=configure install unpack
+DEPEND=net-irc/libcommuni[qt5] >=dev-vcs/git-1.8.2.1
+DESCRIPTION=An IRC client for desktop environments
+EAPI=6
+HOMEPAGE=https://github.com/communi/communi-desktop
+LICENSE=BSD-3
+RDEPEND=net-irc/libcommuni[qt5]
+SLOT=0
+_eclasses_=estack	43ddf5aaffa7a8d0482df54d25a66a1f	git-r3	52a888802d25387c2c74cb845d1219bc	multilib	97f470f374f2e94ccab04a2fb21d811e	qmake-utils	990448b067cb3cfe1443bc25fb57239c	toolchain-funcs	185a06792159ca143528e7010368e8af
+_md5_=0291c328474341ce66d3e102cf6136c2
