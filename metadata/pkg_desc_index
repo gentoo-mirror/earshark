@@ -17,6 +17,7 @@ dev-go/discordgo 9999: Discord Go library
 dev-go/goquery 9999: A little like that j-thing, only in Go
 dev-go/gorilla-websocket 9999: A WebSocket implementation for Go
 dev-libs/beast 124: Simple wrapper around libcurl inspired by the Python Requests project
+dev-libs/klibc 2.0.4-r3: A minimal libc subset for use with initramfs
 games-arcade/OpenJazz 0.1.0-r1: Free engine for Jazz Jackrabbit game
 games-arcade/knights 025-r1: multiplayer game, port of Amiga Knights
 games-engines/love 0.10.2: A framework for 2D games in Lua
