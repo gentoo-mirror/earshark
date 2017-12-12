@@ -30,7 +30,6 @@ media-libs/libsdl 1.2.15-r10: Simple Direct Media Layer
 media-sound/clementine-qt5 9999: A modern music player and library organizer based on Amarok 1.4 and Qt4
 media-sound/sfxr 1.2.1: Sound effect generator with SDL GUI
 media-video/obs-studio 9999: Software for recording and streaming live video content
-net-im/discord-bin 0.0.2: All-in-one voice and text chat for gamers
 net-irc/communi-desktop 9999: An IRC client for desktop environments
 net-irc/libcommuni 3.5.0: A cross-platform IRC framework written with Qt
 net-irc/znc-push 9999: Push notification service module for ZNC
