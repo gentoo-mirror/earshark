@@ -34,7 +34,7 @@ net-irc/communi-desktop 9999: An IRC client for desktop environments
 net-irc/libcommuni 3.5.0: A cross-platform IRC framework written with Qt
 net-irc/znc-push 9999: Push notification service module for ZNC
 net-misc/discord-prompt-bot 9999: Simple discord prompt bot
-net-misc/drawpile 2.0.0_rc 2.0.2: Networking drawing (whiteboarding) program
+net-misc/drawpile 2.0.0_rc 2.0.2 2.0.5: Networking drawing (whiteboarding) program
 net-misc/lemongrab 9999: Simple XMPP bot
 net-misc/matterbridge 9999: Bridge between multiple chat networks
 sys-apps/xdg-desktop-portal-kde 5.11.4: A backend implementation for xdg-desktop-portal that is using Qt/KDE
