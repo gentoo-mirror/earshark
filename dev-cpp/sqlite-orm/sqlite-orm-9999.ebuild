@@ -1,4 +1,4 @@
-# Copyright 1999-2017 Gentoo Foundation
+# Copyright 1999-2018 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
 
 EAPI=6
@@ -18,5 +18,5 @@ RDEPEND="${DEPEND}"
 
 src_install() {
 	insinto /usr/include/sqlite_orm
-	doins include/sqlite_orm/sqlite_orm.h
+	doins include/sqlite_orm/sqlite_orm1.h
 }
