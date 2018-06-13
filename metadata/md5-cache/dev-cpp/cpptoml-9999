@@ -1,10 +1,10 @@
 DEFINED_PHASES=install unpack
-DEPEND=>=dev-vcs/git-1.8.2.1
+DEPEND=>=dev-vcs/git-1.8.2.1[curl]
 DESCRIPTION=cpptoml is a header-only library for parsing TOML
 EAPI=6
 HOMEPAGE=https://github.com/skystrife/cpptoml
 KEYWORDS=~amd64 ~x86
 LICENSE=cpptoml
 SLOT=0
-_eclasses_=git-r3	af51ccfceeb403ab80f1bf9209d372c8
+_eclasses_=git-r3	8f6de46b0aa318aea0e8cac62ece098b
 _md5_=b41e7b8db21060c15a6d5b678367fc2e
