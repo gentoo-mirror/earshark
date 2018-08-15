@@ -5,5 +5,5 @@ EAPI=6
 HOMEPAGE=https://noswap.com/projects/znc-push
 LICENSE=MIT
 SLOT=0
-_eclasses_=git-r3	8f6de46b0aa318aea0e8cac62ece098b
+_eclasses_=git-r3	918d6a744039c29af2cadc7317459765
 _md5_=abb6a585d919216ac51204d07a6d88ff
