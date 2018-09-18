@@ -6,5 +6,5 @@ HOMEPAGE=https://github.com/skystrife/cpptoml
 KEYWORDS=~amd64 ~x86
 LICENSE=cpptoml
 SLOT=0
-_eclasses_=git-r3	918d6a744039c29af2cadc7317459765
+_eclasses_=git-r3	0d4635eeb5a96cd5315597a47eba25c9
 _md5_=b41e7b8db21060c15a6d5b678367fc2e
