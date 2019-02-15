@@ -38,6 +38,7 @@ src_install(){
 	make_desktop_entry "${PN}" "Visual Studio Code" "${PN}" "Development;IDE"
 	doicon "${FILESDIR}/${PN}.png"
 	fperms +x "/opt/${PN}/code"
+	find /opt/${PN} -name rg -exec chmod a+x {} \;
 	fperms +x "/opt/${PN}/libnode.so"
 	fperms +x "/opt/${PN}/libffmpeg.so"
 	insinto "/usr/share/licenses/${PN}"
