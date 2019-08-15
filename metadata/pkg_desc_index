@@ -1,5 +1,5 @@
 app-doc/cheat 9999: cheat allows you to create and view interactive cheatsheets on the command-line
-app-editors/visual-studio-code-bin 1.34.0 1.35.0 1.35.1 1.36.0: Multiplatform Visual Studio Code from Microsoft
+app-editors/visual-studio-code-bin 1.34.0 1.35.0 1.35.1 1.36.0 1.37.0: Multiplatform Visual Studio Code from Microsoft
 dev-cpp/callff 9999: CallFF library allows to making foreign functions calls.
 dev-cpp/cpprestsdk 9999: C++ REST SDK by Microsoft
 dev-cpp/cpptoml 9999: cpptoml is a header-only library for parsing TOML
@@ -39,7 +39,7 @@ net-irc/communi-desktop 9999: An IRC client for desktop environments
 net-irc/libcommuni 3.5.0: A cross-platform IRC framework written with Qt
 net-irc/znc-push 9999: Push notification service module for ZNC
 net-misc/discord-prompt-bot 9999: Simple discord prompt bot
-net-misc/drawpile 2.0.10: Networking drawing (whiteboarding) program
+net-misc/drawpile 2.0.10 2.1.11: Networking drawing (whiteboarding) program
 net-misc/lemongrab 9999: Simple XMPP bot
 net-misc/matterbridge 9999: Bridge between multiple chat networks
 sys-apps/xdg-desktop-portal-kde 5.11.4: A backend implementation for xdg-desktop-portal that is using Qt/KDE
