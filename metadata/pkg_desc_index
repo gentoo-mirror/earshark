@@ -1,5 +1,5 @@
 app-doc/cheat 9999: cheat allows you to create and view interactive cheatsheets on the command-line
-app-editors/visual-studio-code-bin 1.34.0 1.35.0 1.35.1 1.36.0 1.37.0: Multiplatform Visual Studio Code from Microsoft
+app-editors/visual-studio-code-bin 1.34.0 1.35.0 1.35.1 1.36.0 1.37.0 1.38.0: Multiplatform Visual Studio Code from Microsoft
 dev-cpp/callff 9999: CallFF library allows to making foreign functions calls.
 dev-cpp/cpprestsdk 9999: C++ REST SDK by Microsoft
 dev-cpp/cpptoml 9999: cpptoml is a header-only library for parsing TOML
@@ -30,6 +30,8 @@ games-roguelike/stone-soup 0.21.1 9999-r1: a rogue-like game
 games-util/doomseeker 1.2: Internet Doom server browser
 kde-apps/kaccounts-providers 17.04.3-r1: KDE accounts providers
 kde-misc/peruse 9999: A comic book viewer based on Frameworks 5, for use on multiple form factors
+kde-misc/plasma-applet-window-buttons 9999: Plasma 5 applet in order to show window buttons in your panels
+kde-misc/virtual-desktop-bar 0.5.0: KDE Plasma panel applet for managing virtual desktops
 kde-plasma/sierrabreeze 9999: OSX-like window decoration for KDE Plasma written in C++
 media-libs/libsdl 1.2.15-r10: Simple Direct Media Layer
 media-sound/sfxr 1.2.1: Sound effect generator with SDL GUI
