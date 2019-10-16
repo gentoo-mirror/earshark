@@ -28,10 +28,6 @@ games-arcade/knights 025-r1: multiplayer game, port of Amiga Knights
 games-engines/love 0.10.2: A framework for 2D games in Lua
 games-roguelike/stone-soup 0.21.1 9999-r1: a rogue-like game
 games-util/doomseeker 1.2: Internet Doom server browser
-kde-apps/kaccounts-providers 17.04.3-r1: KDE accounts providers
-kde-misc/peruse 9999: A comic book viewer based on Frameworks 5, for use on multiple form factors
-kde-misc/plasma-applet-window-buttons 9999: Plasma 5 applet in order to show window buttons in your panels
-kde-misc/virtual-desktop-bar 0.5.0: KDE Plasma panel applet for managing virtual desktops
 kde-plasma/sierrabreeze 9999: OSX-like window decoration for KDE Plasma written in C++
 media-libs/libsdl 1.2.15-r10: Simple Direct Media Layer
 media-sound/sfxr 1.2.1: Sound effect generator with SDL GUI
@@ -44,7 +40,6 @@ net-misc/discord-prompt-bot 9999: Simple discord prompt bot
 net-misc/drawpile 2.0.10 2.1.11: Networking drawing (whiteboarding) program
 net-misc/lemongrab 9999: Simple XMPP bot
 net-misc/matterbridge 9999: Bridge between multiple chat networks
-sys-apps/xdg-desktop-portal-kde 5.11.4: A backend implementation for xdg-desktop-portal that is using Qt/KDE
 sys-process/pagemon 0.01.10: pagemon is an interactive memory/page monitoring tool
 www-apps/tt-rss 9999: Tiny Tiny RSS - A web-based news feed (RSS/Atom) aggregator using AJAX
 x11-misc/redshift-qt 0.3 9999: Tray controls for redshift
