@@ -6,5 +6,5 @@ HOMEPAGE=https://bitbucket.org/Torr_Samaho/acc/
 LICENSE=ACC
 PROPERTIES=live
 SLOT=0
-_eclasses_=git-r3	562b380fc59ae6a8622171d0acb777d1
+_eclasses_=git-r3	6d22636df236df4cc8475f7b7668bdcd
 _md5_=7571a2fdfe99a5a94e76bcb23ccc5ced
