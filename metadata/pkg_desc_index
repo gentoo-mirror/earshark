@@ -39,6 +39,7 @@ net-im/discord-bin 0.0.8 0.0.9: All-in-one voice and text chat for gamers
 net-irc/communi-desktop 9999: An IRC client for desktop environments
 net-irc/libcommuni 3.5.0: A cross-platform IRC framework written with Qt
 net-irc/znc-push 9999: Push notification service module for ZNC
+net-libs/dpdk 19.11: A set of libraries and drivers for fast packet processing
 net-misc/discord-prompt-bot 9999: Simple discord prompt bot
 net-misc/drawpile 2.0.10 2.1.11: Networking drawing (whiteboarding) program
 net-misc/lemongrab 9999: Simple XMPP bot
