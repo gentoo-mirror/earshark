@@ -7,5 +7,5 @@ KEYWORDS=~amd64 ~x86
 LICENSE=cpptoml
 PROPERTIES=live
 SLOT=0
-_eclasses_=git-r3	809e27702c573cbba31c08ed00bbad33
+_eclasses_=git-r3	86a0188f2ad9eb3d65e4d031ab8a0422
 _md5_=b41e7b8db21060c15a6d5b678367fc2e
