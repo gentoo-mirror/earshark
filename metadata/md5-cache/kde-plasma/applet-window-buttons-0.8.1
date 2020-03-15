@@ -1,14 +1,14 @@
 BDEPEND=dev-util/ninja dev-util/cmake test? ( !prefix? ( x11-base/xorg-server[xvfb] ) x11-apps/xhost ) handbook? ( >=kde-frameworks/kdoctools-5.60.0:5 ) >=kde-frameworks/extra-cmake-modules-5.60.0:5
 DEFINED_PHASES=compile configure install nofetch postinst postrm preinst prepare setup test unpack
-DEPEND=>=kde-frameworks/kdeclarative-5.60.0:5 >=kde-frameworks/plasma-5.60.0:5 >=kde-frameworks/ki18n-5.60.0:5 >=dev-qt/qtqml-5.12.3:5 >=dev-qt/qtgui-5.12.3:5 >=dev-qt/qtquick-5.12.3:5 sys-devel/gettext dev-util/desktop-file-utils x11-misc/shared-mime-info dev-util/desktop-file-utils x11-misc/shared-mime-info >=dev-qt/qtcore-5.12.3:5
-DESCRIPTION=KDE Plasma panel applet for managing virtual desktops
+DEPEND=>=kde-frameworks/kcoreaddons-5.60.0:5 >=kde-frameworks/kdeclarative-5.60.0:5 >=kde-frameworks/plasma-5.60.0:5 >=kde-frameworks/plasmaquick-5.60.0:5 >=kde-frameworks/ki18n-5.60.0:5 >=dev-qt/qtqml-5.12.3:5 >=dev-qt/qtgui-5.12.3:5 >=dev-qt/qtquick-5.12.3:5 sys-devel/gettext dev-util/desktop-file-utils x11-misc/shared-mime-info dev-util/desktop-file-utils x11-misc/shared-mime-info >=dev-qt/qtcore-5.12.3:5
+DESCRIPTION=Plasma 5 applet in order to show window buttons in your panels
 EAPI=7
-HOMEPAGE=https://github.com/wsdfhjxc/virtual-desktop-bar
+HOMEPAGE=https://github.com/psifidotos/applet-window-buttons
 IUSE=test debug +handbook
-LICENSE=GPL-3
+LICENSE=GPL-2
 RDEPEND=|| ( >=kde-frameworks/breeze-icons-5.60.0:5 kde-frameworks/oxygen-icons:* ) >=kde-frameworks/kf-env-4 >=dev-qt/qtcore-5.12.3:5
 RESTRICT=!test? ( test )
 SLOT=5
-SRC_URI=https://github.com/wsdfhjxc/virtual-desktop-bar/archive/0.5.0.tar.gz -> virtual-desktop-bar-0.5.0.tar.gz
+SRC_URI=https://github.com/psifidotos/applet-window-buttons/archive/0.8.1.tar.gz -> applet-window-buttons-0.8.1.tar.gz
 _eclasses_=cmake	88799418ef3db9d88b6232a483143608	ecm	879e666a2784e1ba491fdf89c982915d	eutils	fcb2aa98e1948b835b5ae66ca52868c5	flag-o-matic	53d57b0f8b8c19ff72cb341a42b891ed	kde.org	104cd698592fe00d01da44e1e6d056bd	kde5	43b81ba8315f22f13c8461215eb0e6dd	kde5-functions	7f1ffe0e976f19abc8fc9ffe0fbccafa	multilib	1d91b03d42ab6308b5f4f6b598ed110e	multiprocessing	cac3169468f893670dac3e7cb940e045	ninja-utils	132cbb376048d079b5a012f5467c4e7f	toolchain-funcs	512eb3367f507ebaa1d1d43ab7d66e6c	virtualx	e49dbce7ac14426e1155497476915307	xdg	c7ba313ea1eaf266f95cc6235f7d6a07	xdg-utils	ff2ff954e6b17929574eee4efc5152ba
-_md5_=bd34ae2b78b0b98c4af0b59c5cb602bc
+_md5_=616f4c6a67749754d241844389ccbf84
