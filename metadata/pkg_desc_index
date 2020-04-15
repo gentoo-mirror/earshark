@@ -28,7 +28,6 @@ games-arcade/knights 025-r1: multiplayer game, port of Amiga Knights
 games-engines/love 0.10.2: A framework for 2D games in Lua
 games-roguelike/stone-soup 0.21.1 9999-r1: a rogue-like game
 games-util/doomseeker 1.2: Internet Doom server browser
-kde-misc/peruse 9999: A comic book viewer based on Frameworks 5, for use on multiple form factors
 kde-plasma/applet-window-buttons 0.8.1 9999: Plasma 5 applet in order to show window buttons in your panels
 kde-plasma/sierrabreeze 9999: OSX-like window decoration for KDE Plasma written in C++
 kde-plasma/virtual-desktop-bar 0.7.0 0.8: KDE Plasma panel applet for managing virtual desktops
