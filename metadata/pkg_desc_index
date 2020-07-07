@@ -1,3 +1,4 @@
+app-backup/duplicati-bin 2.0.5.107: A backup client that securely stores encrypted, incremental, compressed backups.
 app-doc/cheat 9999: cheat allows you to create and view interactive cheatsheets on the command-line
 app-editors/visual-studio-code-bin 1.38.0: Multiplatform Visual Studio Code from Microsoft
 dev-cpp/callff 9999: CallFF library allows to making foreign functions calls.
