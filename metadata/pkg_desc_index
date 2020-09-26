@@ -44,6 +44,7 @@ net-misc/discord-prompt-bot 9999: Simple discord prompt bot
 net-misc/drawpile 2.0.10 2.1.11: Networking drawing (whiteboarding) program
 net-misc/lemongrab 9999: Simple XMPP bot
 net-misc/matterbridge 9999: Bridge between multiple chat networks
+net-vpn/tailscale 1.0.5: Tailscale vpn client
 sys-process/pagemon 0.01.10: pagemon is an interactive memory/page monitoring tool
 www-apps/tt-rss 9999: Tiny Tiny RSS - A web-based news feed (RSS/Atom) aggregator using AJAX
 x11-misc/redshift-qt 0.3 9999: Tray controls for redshift
