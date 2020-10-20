@@ -1,25 +1,11 @@
+app-accessibility/onboard 1.4.1.7: An onscreen keyboard useful for tablet PC users and for mobility impaired users
 app-backup/duplicati-bin 2.0.5.107: A backup client that securely stores encrypted, incremental, compressed backups.
-app-doc/cheat 9999: cheat allows you to create and view interactive cheatsheets on the command-line
-app-editors/visual-studio-code-bin 1.38.0: Multiplatform Visual Studio Code from Microsoft
-dev-cpp/callff 9999: CallFF library allows to making foreign functions calls.
-dev-cpp/cpprestsdk 9999: C++ REST SDK by Microsoft
-dev-cpp/cpptoml 9999: cpptoml is a header-only library for parsing TOML
-dev-cpp/cpr 1.3.0 9999: Simple wrapper around libcurl inspired by the Python Requests project
-dev-cpp/curlcpp 9999: An object-oriented C++ wrapper for cURL tool
-dev-cpp/fplus 9999: Functional Programming Library for C++
-dev-cpp/hexicord 9999: Discord API library for C++ using boost libraries
-dev-cpp/hiberlite 9999: C++ ORM for SQLite
-dev-cpp/prometheus-cpp 9999: Prometheus Client Library for Modern C++
-dev-cpp/sqlite-orm 9999: SQLite ORM light header only library for modern C++
+app-emulation/looking-glass 9999: A low latency KVM FrameRelay implementation for guests with VGA PCI Passthrough
 dev-games/acc 9999: Zandronum Action Code script Compiler
+dev-games/aseprite 1.2.25: Animated sprite editor & pixel art tool
 dev-games/raknet-tes3mp 9999: Multiplayer game network engine, TES3MP fork
 dev-games/sdlu 9999: The SDL Utility Library
-dev-games/slade 3.1.1_beta3 3.1.5: SLADE3 is a modern editor for Doom-engine based games and source ports
 dev-games/zdbsp 1.19: Standalone version of ZDoom's internal node builder
-dev-go/cascadia 9999: CSS selector library in Go
-dev-go/discordgo 9999: Discord Go library
-dev-go/goquery 9999: A little like that j-thing, only in Go
-dev-go/gorilla-websocket 9999: A WebSocket implementation for Go
 dev-libs/beast 124: Simple wrapper around libcurl inspired by the Python Requests project
 dev-libs/klibc 2.0.4-r3: A minimal libc subset for use with initramfs
 dev-libs/libwacom 0.29: Library for identifying Wacom tablets and their model-specific features
@@ -27,24 +13,18 @@ dev-util/hotspot 9999: a GUI for the Linux perf profiler
 games-arcade/OpenJazz 0.1.0-r1: Free engine for Jazz Jackrabbit game
 games-arcade/knights 025-r1: multiplayer game, port of Amiga Knights
 games-engines/love 0.10.2: A framework for 2D games in Lua
-games-roguelike/stone-soup 0.21.1 9999-r1: a rogue-like game
-games-util/doomseeker 1.2: Internet Doom server browser
-kde-plasma/applet-window-buttons 0.8.1 9999: Plasma 5 applet in order to show window buttons in your panels
+kde-plasma/applet-window-buttons 0.8.1: Plasma 5 applet in order to show window buttons in your panels
 kde-plasma/sierrabreeze 9999: OSX-like window decoration for KDE Plasma written in C++
 kde-plasma/virtual-desktop-bar 0.7.0 0.8: KDE Plasma panel applet for managing virtual desktops
+media-fonts/twemoji-color-font 12.0.1: A color and B&W emoji SVG-in-OpenType font with ZWJ
 media-libs/libsdl 1.2.15-r10: Simple Direct Media Layer
 media-sound/sfxr 1.2.1: Sound effect generator with SDL GUI
-media-video/obs-studio 9999: Software for recording and streaming live video content
-net-im/discord-bin 0.0.8 0.0.9 0.0.10 0.0.11 0.0.12: All-in-one voice and text chat for gamers
+net-im/discord-bin 0.0.12: All-in-one voice and text chat for gamers
 net-irc/communi-desktop 9999: An IRC client for desktop environments
 net-irc/libcommuni 3.5.0: A cross-platform IRC framework written with Qt
 net-irc/znc-push 9999: Push notification service module for ZNC
 net-libs/dpdk 19.11: A set of libraries and drivers for fast packet processing
-net-misc/discord-prompt-bot 9999: Simple discord prompt bot
-net-misc/drawpile 2.0.10 2.1.11: Networking drawing (whiteboarding) program
-net-misc/lemongrab 9999: Simple XMPP bot
-net-misc/matterbridge 9999: Bridge between multiple chat networks
 net-vpn/tailscale 1.0.5: Tailscale vpn client
 sys-process/pagemon 0.01.10: pagemon is an interactive memory/page monitoring tool
-www-apps/tt-rss 9999: Tiny Tiny RSS - A web-based news feed (RSS/Atom) aggregator using AJAX
+www-client/brave-bin 1.15.42 1.17.22: Brave Web Browser
 x11-misc/redshift-qt 0.3 9999: Tray controls for redshift
