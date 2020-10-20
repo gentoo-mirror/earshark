@@ -4,4 +4,7 @@
 	<maintainer type="person">
 		<email>jazzvoid@gmail.com</email>
 	</maintainer>
+	<use>
+		<flag name='host'>Install looking-glass host</flag>
+	</use>	
 </pkgmetadata>
