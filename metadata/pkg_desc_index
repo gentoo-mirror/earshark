@@ -26,5 +26,5 @@ net-irc/znc-push 9999: Push notification service module for ZNC
 net-libs/dpdk 19.11: A set of libraries and drivers for fast packet processing
 net-vpn/tailscale 1.0.5: Tailscale vpn client
 sys-process/pagemon 0.01.10: pagemon is an interactive memory/page monitoring tool
-www-client/brave-bin 1.15.42 1.17.22: Brave Web Browser
+www-client/brave-bin 1.18.30: Brave Web Browser
 x11-misc/redshift-qt 0.3 9999: Tray controls for redshift
