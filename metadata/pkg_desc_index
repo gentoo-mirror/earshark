@@ -14,6 +14,7 @@ games-arcade/OpenJazz 0.1.0-r1: Free engine for Jazz Jackrabbit game
 games-arcade/knights 025-r1: multiplayer game, port of Amiga Knights
 games-engines/love 0.10.2: A framework for 2D games in Lua
 kde-plasma/applet-window-buttons 0.8.1: Plasma 5 applet in order to show window buttons in your panels
+kde-plasma/material-decoration 5: Plasma 5 applet in order to show window buttons in your panels
 kde-plasma/sierrabreeze 9999: OSX-like window decoration for KDE Plasma written in C++
 kde-plasma/virtual-desktop-bar 0.7.0 0.8: KDE Plasma panel applet for managing virtual desktops
 media-fonts/twemoji-color-font 12.0.1: A color and B&W emoji SVG-in-OpenType font with ZWJ
@@ -24,7 +25,8 @@ net-irc/communi-desktop 9999: An IRC client for desktop environments
 net-irc/libcommuni 3.5.0: A cross-platform IRC framework written with Qt
 net-irc/znc-push 9999: Push notification service module for ZNC
 net-libs/dpdk 19.11: A set of libraries and drivers for fast packet processing
-net-vpn/tailscale 1.0.5: Tailscale vpn client
+net-vpn/tailscale 1.0.5 1.2.10: Tailscale vpn client
+net-wireless/linux-wifi-hotspot 9999: An IRC client for desktop environments
 sys-process/pagemon 0.01.10: pagemon is an interactive memory/page monitoring tool
 www-client/brave-bin 1.18.30: Brave Web Browser
 x11-misc/redshift-qt 0.3 9999: Tray controls for redshift
