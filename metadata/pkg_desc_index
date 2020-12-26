@@ -21,12 +21,9 @@ media-fonts/twemoji-color-font 12.0.1: A color and B&W emoji SVG-in-OpenType fon
 media-libs/libsdl 1.2.15-r10: Simple Direct Media Layer
 media-sound/sfxr 1.2.1: Sound effect generator with SDL GUI
 net-im/discord-bin 0.0.12: All-in-one voice and text chat for gamers
-net-irc/communi-desktop 9999: An IRC client for desktop environments
-net-irc/libcommuni 3.5.0: A cross-platform IRC framework written with Qt
 net-irc/znc-push 9999: Push notification service module for ZNC
 net-libs/dpdk 19.11: A set of libraries and drivers for fast packet processing
 net-vpn/tailscale 1.0.5 1.2.10: Tailscale vpn client
 net-wireless/linux-wifi-hotspot 9999: An IRC client for desktop environments
 sys-process/pagemon 0.01.10: pagemon is an interactive memory/page monitoring tool
 www-client/brave-bin 1.18.30: Brave Web Browser
-x11-misc/redshift-qt 0.3 9999: Tray controls for redshift
