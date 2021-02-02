@@ -8,7 +8,6 @@ dev-games/sdlu 9999: The SDL Utility Library
 dev-games/zdbsp 1.19: Standalone version of ZDoom's internal node builder
 dev-libs/beast 124: Simple wrapper around libcurl inspired by the Python Requests project
 dev-libs/klibc 2.0.4-r3: A minimal libc subset for use with initramfs
-dev-libs/libwacom 0.29: Library for identifying Wacom tablets and their model-specific features
 dev-util/hotspot 9999: a GUI for the Linux perf profiler
 games-arcade/OpenJazz 0.1.0-r1: Free engine for Jazz Jackrabbit game
 games-arcade/knights 025-r1: multiplayer game, port of Amiga Knights
@@ -27,3 +26,4 @@ net-vpn/tailscale 1.0.5 1.2.10: Tailscale vpn client
 net-wireless/linux-wifi-hotspot 9999: An IRC client for desktop environments
 sys-process/pagemon 0.01.10: pagemon is an interactive memory/page monitoring tool
 www-client/brave-bin 1.18.30: Brave Web Browser
+x11-misc/redshift-qt 0.3 9999: Tray controls for redshift
