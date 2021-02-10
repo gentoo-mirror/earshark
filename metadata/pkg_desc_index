@@ -1,5 +1,6 @@
 app-accessibility/onboard 1.4.1.7: An onscreen keyboard useful for tablet PC users and for mobility impaired users
 app-backup/duplicati-bin 2.0.5.107: A backup client that securely stores encrypted, incremental, compressed backups.
+app-crypt/libsecret 0.20.3-r1: GObject library for accessing the freedesktop.org Secret Service API
 app-emulation/looking-glass 9999: A low latency KVM FrameRelay implementation for guests with VGA PCI Passthrough
 dev-games/acc 9999: Zandronum Action Code script Compiler
 dev-games/aseprite 1.2.25: Animated sprite editor & pixel art tool
