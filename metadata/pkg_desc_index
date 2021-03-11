@@ -4,10 +4,7 @@ app-crypt/libsecret 0.20.3-r1: GObject library for accessing the freedesktop.org
 app-emulation/looking-glass 9999: A low latency KVM FrameRelay implementation for guests with VGA PCI Passthrough
 dev-games/acc 9999: Zandronum Action Code script Compiler
 dev-games/aseprite 1.2.25: Animated sprite editor & pixel art tool
-dev-games/raknet-tes3mp 9999: Multiplayer game network engine, TES3MP fork
-dev-games/sdlu 9999: The SDL Utility Library
 dev-games/zdbsp 1.19: Standalone version of ZDoom's internal node builder
-dev-libs/beast 124: Simple wrapper around libcurl inspired by the Python Requests project
 dev-libs/klibc 2.0.4-r3: A minimal libc subset for use with initramfs
 dev-util/hotspot 9999: a GUI for the Linux perf profiler
 games-arcade/OpenJazz 0.1.0-r1: Free engine for Jazz Jackrabbit game
