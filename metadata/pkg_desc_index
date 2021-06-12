@@ -24,3 +24,4 @@ net-wireless/linux-wifi-hotspot 9999: An IRC client for desktop environments
 sys-process/pagemon 0.01.10: pagemon is an interactive memory/page monitoring tool
 www-client/brave-bin 1.18.30: Brave Web Browser
 x11-misc/redshift-qt 0.3 9999: Tray controls for redshift
+x11-misc/ulauncher 5.11.0: Application launcher for Linux
