@@ -1,18 +1,16 @@
 app-accessibility/onboard 1.4.1.7: An onscreen keyboard useful for tablet PC users and for mobility impaired users
-app-crypt/libsecret 0.20.3-r1: GObject library for accessing the freedesktop.org Secret Service API
 app-emulation/looking-glass 9999: A low latency KVM FrameRelay implementation for guests with VGA PCI Passthrough
 dev-games/acc 9999: Zandronum Action Code script Compiler
 dev-games/aseprite 1.2.25: Animated sprite editor & pixel art tool
 dev-games/zdbsp 1.19: Standalone version of ZDoom's internal node builder
-dev-libs/klibc 2.0.4-r3: A minimal libc subset for use with initramfs
 dev-util/hotspot 9999: a GUI for the Linux perf profiler
 kde-plasma/applet-window-buttons 0.8.1: Plasma 5 applet in order to show window buttons in your panels
 kde-plasma/material-decoration 5: Plasma 5 applet in order to show window buttons in your panels
 kde-plasma/sierrabreeze 9999: OSX-like window decoration for KDE Plasma written in C++
-kde-plasma/virtual-desktop-bar 0.7.0 0.8: KDE Plasma panel applet for managing virtual desktops
+kde-plasma/virtual-desktop-bar 0.8: KDE Plasma panel applet for managing virtual desktops
 media-fonts/twemoji-color-font 12.0.1: A color and B&W emoji SVG-in-OpenType font with ZWJ
 media-sound/sfxr 1.2.1: Sound effect generator with SDL GUI
 net-wireless/linux-wifi-hotspot 9999: An IRC client for desktop environments
 sys-process/pagemon 0.01.10: pagemon is an interactive memory/page monitoring tool
 x11-misc/redshift-qt 0.3 9999: Tray controls for redshift
-x11-misc/ulauncher 5.14.4: Application launcher for Linux
+x11-misc/ulauncher 5.15.0: Application launcher for Linux
