@@ -3,4 +3,3 @@
 # * generated automatically using pmaint *
 
 app-emulation/looking-glass:host - Install looking-glass host
-dev-games/aseprite:memleak - Enable memory-leaks detector (only for developers)
