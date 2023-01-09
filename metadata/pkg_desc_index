@@ -3,6 +3,8 @@ app-emulation/looking-glass 9999: A low latency KVM FrameRelay implementation fo
 dev-games/acc 9999: Zandronum Action Code script Compiler
 dev-games/zdbsp 1.19: Standalone version of ZDoom's internal node builder
 dev-util/hotspot 9999: a GUI for the Linux perf profiler
+kde-plasma/applet-window-buttons 0.8.1: Plasma 5 applet in order to show window buttons in your panels
+kde-plasma/material-decoration 5: Plasma 5 applet in order to show window buttons in your panels
 kde-plasma/sierrabreeze 9999: OSX-like window decoration for KDE Plasma written in C++
 kde-plasma/virtual-desktop-bar 0.8: KDE Plasma panel applet for managing virtual desktops
 media-fonts/twemoji-color-font 12.0.1: A color and B&W emoji SVG-in-OpenType font with ZWJ
