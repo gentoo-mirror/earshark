@@ -12,4 +12,4 @@ media-sound/sfxr 1.2.1: Sound effect generator with SDL GUI
 net-wireless/linux-wifi-hotspot 9999: An IRC client for desktop environments
 sys-process/pagemon 0.01.10: pagemon is an interactive memory/page monitoring tool
 x11-misc/redshift-qt 0.3 9999: Tray controls for redshift
-x11-misc/ulauncher 5.15.0: Application launcher for Linux
+x11-misc/ulauncher 5.15.2: Application launcher for Linux
