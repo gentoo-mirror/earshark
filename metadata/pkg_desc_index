@@ -1,6 +1,5 @@
 app-accessibility/onboard 1.4.1.7: An onscreen keyboard useful for tablet PC users and for mobility impaired users
 app-emulation/looking-glass 9999: A low latency KVM FrameRelay implementation for guests with VGA PCI Passthrough
-dev-games/acc 9999: Zandronum Action Code script Compiler
 dev-games/zdbsp 1.19: Standalone version of ZDoom's internal node builder
 dev-util/hotspot 9999: a GUI for the Linux perf profiler
 kde-plasma/applet-window-buttons 0.8.1: Plasma 5 applet in order to show window buttons in your panels
